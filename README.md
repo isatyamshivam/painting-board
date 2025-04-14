@@ -2,4 +2,4 @@ The Painting Board Website is an interactive and creative platform that allows u
 
 Tech Stack : HTML, CSS and JavaScript 
 
-Visit : https://isatyamshivam.github.io/web-painting-board/
+Visit : https://isatyamshivam.github.io/painting-board/
